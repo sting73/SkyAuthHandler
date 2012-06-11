@@ -1,0 +1,6 @@
+D:\MyData\Visual Studio 2009\SkyJob1\SkyAuthHandler\obj\Debug\ResolveAssemblyReference.cache
+D:\MyData\Visual Studio 2009\SkyJob1\SkyAuthHandler\bin\Debug\SkyAuthHandler.dll.config
+D:\MyData\Visual Studio 2009\SkyJob1\SkyAuthHandler\bin\Debug\SkyAuthHandler.dll
+D:\MyData\Visual Studio 2009\SkyJob1\SkyAuthHandler\bin\Debug\SkyAuthHandler.pdb
+D:\MyData\Visual Studio 2009\SkyJob1\SkyAuthHandler\obj\Debug\SkyAuthHandler.dll
+D:\MyData\Visual Studio 2009\SkyJob1\SkyAuthHandler\obj\Debug\SkyAuthHandler.pdb
